@@ -6,7 +6,7 @@ A Next.js inventory and reservation platform for multi-warehouse retail. Custome
 
 ## Live Demo
 
-> _Deploy to Vercel + Supabase + Upstash, then paste URL here_
+> _Deploy to Vercel 
 
 ---
 
